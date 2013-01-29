@@ -140,7 +140,7 @@
             this.freqTab.Location = new System.Drawing.Point(4, 22);
             this.freqTab.Name = "freqTab";
             this.freqTab.Padding = new System.Windows.Forms.Padding(3);
-            this.freqTab.Size = new System.Drawing.Size(862, 392);
+            this.freqTab.Size = new System.Drawing.Size(862, 370);
             this.freqTab.TabIndex = 1;
             this.freqTab.Text = "Frequency Analysis";
             this.freqTab.UseVisualStyleBackColor = true;
@@ -220,6 +220,7 @@
             this.plainTextBox.Multiline = true;
             this.plainTextBox.Name = "plainTextBox";
             this.plainTextBox.ReadOnly = true;
+            this.plainTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.plainTextBox.Size = new System.Drawing.Size(422, 297);
             this.plainTextBox.TabIndex = 2;
             this.plainTextBox.Text = "The plain text will be displayed here";
