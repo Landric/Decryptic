@@ -33,6 +33,7 @@ namespace Decryptic
             {
                 String file = openDialog.FileName;
                 cipherText = File.ReadAllText(file);
+                cipherTextBox.Text = cipherText;
             }
         }
 
