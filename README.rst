@@ -11,12 +11,12 @@ Decryptic is made available under the GNU GPL and is copyright of Tom Blount. Fo
 Features
 
 * Load ciphertexts from a file
+* Display frequency analysis graph
 
 TODO
 
-* Display frequency analysis graph / index of coincidence
+* Display index of coincidence
 * Detect and decrypt simple Caesar shift
 * Detect and decrypt monoalphabetic substitution
 * Detect and decrypt Vigenère cipher
 * Detect and decrypt polyalphabetic cipher
-
